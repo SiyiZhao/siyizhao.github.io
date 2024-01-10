@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyi Zhao"
 title_separator          : "-"
 name                     : &name "Siyi Zhao"
-description              : &description "2nd year graduate student at DoA, Tsinghua University"
+description              : &description "3rd year graduate student at DoA, Tsinghua University"
 url                      : https://siyizhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SiyiZhao/siyizhao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siyi Zhao"
   avatar           : "profile.JPG"
-  bio              : "2nd year graduate student at DoA, Tsinghua University"
+  bio              : "3rd year graduate student at DoA, Tsinghua University"
   location         : "Haidian, Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : siyizhao17@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0001-4492-5158"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
